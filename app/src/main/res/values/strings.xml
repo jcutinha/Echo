@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Echo</string>
+    <string name="applogo">appLogo</string>
+    <string name="title_activity_home">Echo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_icon">navigation_drawer_icon</string>
+    <string name="play_pause_button">play/pause button</string>
+    <string name="player_image">player</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="track_name">...</string>
+    <string name="no_songs_to_play">No songs to play</string>
+    <string name="favourite_icon">favourite icon</string>
+    <string name="no_favourites_yet">no favourites yet!!</string>
+    <string name="shake_to_change_song">Shake to change song</string>
+</resources>

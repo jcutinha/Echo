@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:clickable="true"
+    android:padding="10dp"
+    tools:context=".Fragment.SettingFragment">
+
+    <TextView
+        android:id="@+id/shakeToChange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shake_to_change_song"
+        android:textColor="@color/colorBlack"
+        android:textSize="18sp"
+        android:layout_marginStart="5dp"/>
+
+    <Switch
+        android:id="@+id/switchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:backgroundTint="@color/colorBlack"/>
+
+</RelativeLayout>

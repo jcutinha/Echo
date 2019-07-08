@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00032a</color>
+    <color name="colorPrimaryDark">#33342a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gradientStartColor">#00032a</color>
+    <color name="gradientEndColor">#9b2a58</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrey">#919191</color>
+    <color name="colorBlack">#000000</color>
+    <color name="waveOne">#270d36</color>
+    <color name="waveTwo">#4e1741</color>
+    <color name="waveThree">#74204d</color>
+    <color name="waveFour">#9d2a58</color>
+
+    <array name="wave">
+        <item> @color/waveOne </item>
+        <item> @color/waveTwo </item>
+        <item> @color/waveThree </item>
+        <item> @color/waveFour </item>
+
+    </array>
+</resources>
